@@ -22,7 +22,14 @@ nav li {
 
 nav a {
   color: #8f2440
-  text-decoration: none;
+  text-decoration: none
+}
+
+footer a {
+  color: #8f2440;
+  text-decoration: none
+  text-size0.8rem
+
 }
 
 h2{

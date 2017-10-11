@@ -9,6 +9,10 @@ h1 {
   font-family: 'PT Sans', sans-serif;
 }
 
+h1 i {
+  font-style: italic
+}
+
 nav li {
   text-size: 1.125rem
   color: #8f2440

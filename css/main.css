@@ -6,4 +6,10 @@ html {
 h1 {
   text-size: 1.5rem;
   color: #3f1622
+  font-family: 'PT Sans', sans-serif;
+}
+
+nav li {
+  text-size: 1.125rem
+
 }

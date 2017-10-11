@@ -12,4 +12,12 @@ h1 {
 nav li {
   text-size: 1.125rem
   color: #8f2440
+  font-family: 'PT Sans', sans-serif;
+}
+
+h2{
+  color: #3f1622
+  font-family: 'PT Sans', sans-serif;
+  text-size: 1.5rem;
+
 }

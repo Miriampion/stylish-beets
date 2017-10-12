@@ -17,7 +17,8 @@ nav li {
   font-size: 1.125rem;
   color: #8f2440;
   font-family: 'PT Sans', sans-serif;
-  font-weight: normal;
+  font-weight: bold;
+  list-style-type: none
 }
 
 nav a {

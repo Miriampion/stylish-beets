@@ -6,7 +6,7 @@ html {
 h1 {
   font-size: 1.5rem;
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
 }
 
@@ -17,62 +17,82 @@ h1 i {
 nav li {
   font-size: 1.125rem;
   color: #8f2440;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
   list-style-type: none;
 }
 
-nav a {
+a {
   color: #8f2440;
   text-decoration: none;
 }
 
-nav a:hover {
+a:hover {
   color: #3f1622;
+  text-decoration: none;
 }
 
 img {
   width: 100%;
 }
 
-footer a {
-  color: #8f2440;
-  text-decoration: none;
-  font-size: 0.8rem;
-}
-
 h2 {
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
 figcaption {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   color: #222;
   font-style: italic;
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 .days {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-size: 1.125rem;
   font-weight: bold;
   color: #222;
 }
 
 main + p {
-  font-family: 'PT Serif', serif;
-  font-size: 0.8rem;
+  font-family: "PT Serif", serif;
+  font-size: .8rem;
   font-weight: normal;
   color: #222;
 }
 
-b {
-  font-weight: bold;
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+blockquote em {
+  font-style: italic;
+}
+
+blockquote strong {
+  font-weight: normal;
+}
+
+blockquote cite {
+  font-size: .8rem;
 }
 
 h2 + ol {
   list-style-type: lower-greek;
+}
+
+dl dt {
+  font-weight: bold;
+}
+
+h2 p {
+  font-style: italic;
+}
+
+h2 + ul {
+  list-style-type: circle;
 }

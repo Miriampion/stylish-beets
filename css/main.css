@@ -25,6 +25,10 @@ nav a {
   text-decoration: none;
 }
 
+nav a :hover {
+  color: #3f1622;
+}
+
 footer a {
   color: #8f2440;
   text-decoration: none;
@@ -56,6 +60,10 @@ main p {
   font-size: 1.125rem;
   font-weight: normal;
   color: #222;
+}
+
+b {
+  font-weight: bold
 }
 
 ol {

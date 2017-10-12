@@ -4,13 +4,13 @@ html {
 }
 
 h1 {
-  text-size: 1.5rem;
+  font-size: 1.5rem;
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
 }
 
 h1 i {
-  font-style: italic
+  font-style: italic;
 }
 
 nav li {
@@ -56,4 +56,8 @@ main p {
   font-size: 1.125rem;
   font-weight: normal;
   color: #222;
+}
+
+ol {
+  list-style-type:lower-greek;
 }

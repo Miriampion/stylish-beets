@@ -19,7 +19,7 @@ nav li {
   color: #8f2440;
   font-family: 'PT Sans', sans-serif;
   font-weight: bold;
-  list-style-type: none
+  list-style-type: none;
 }
 
 nav a {
@@ -32,7 +32,7 @@ nav a:hover {
 }
 
 img {
-  width 50%;
+  width: 100%;
 }
 
 footer a {
@@ -45,6 +45,7 @@ h2 {
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
   font-size: 1.5rem;
+  font-weight: bold;
 }
 
 figcaption {
@@ -61,7 +62,7 @@ figcaption {
   color: #222;
 }
 
-main p {
+main + p {
   font-family: 'PT Serif', serif;
   font-size: 0.8rem;
   font-weight: normal;
@@ -69,9 +70,9 @@ main p {
 }
 
 b {
-  font-weight: bold
+  font-weight: bold;
 }
 
-h2 ol {
-  list-style-type:lower-greek;
+h2 + ol {
+  list-style-type: lower-greek;
 }

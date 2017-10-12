@@ -66,6 +66,6 @@ b {
   font-weight: bold
 }
 
-ol {
+h2 ol {
   list-style-type:lower-greek;
 }

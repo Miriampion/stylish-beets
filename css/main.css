@@ -5,7 +5,7 @@ html {
 
 h1 {
   text-size: 1.5rem;
-  color: #3f1622
+  color: #3f1622;
   font-family: 'PT Sans', sans-serif;
 }
 
@@ -15,14 +15,14 @@ h1 i {
 
 nav li {
   font-size: 1.125rem;
-  color: #8f2440
+  color: #8f2440;
   font-family: 'PT Sans', sans-serif;
   font-weight: normal;
 }
 
 nav a {
-  color: #8f2440
-  text-decoration: none
+  color: #8f2440;
+  text-decoration: none;
 }
 
 footer a {
@@ -32,7 +32,7 @@ footer a {
 }
 
 h2 {
-  color: #3f1622
+  color: #3f1622;
   font-family: 'PT Sans', sans-serif;
   font-size: 1.5rem;
 }
